@@ -30,3 +30,4 @@ export interface Filter {
 export type FilterState = Record<string, Option>;
 
 export type Option = string | number;
+
